@@ -5,6 +5,8 @@ description: >
    How I manage my academic workflow of reading and writing papers.
 ---
 
+## Academic Workflow
+
 ## The Answer: Obsidian.md
 Obsidian is an amazing knowledge management system, which does exactly what it says. Write notes in markdown, link notes together, and get a navigatable graph between connected notes and ideas. There are a vast amount of themes and community plugins to chose from to truly customize your workflow.
 
