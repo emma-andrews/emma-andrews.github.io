@@ -8,7 +8,8 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Ph.D. student at the University of Florida
+    Computer Science Ph.D. student at the University of Florida. Currently researching
+    data bias in machine learning and explainable artifical intelligence.
 
   # This photo will be used in the about section
   picture:           /assets/img/pf.jpg
