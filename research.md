@@ -12,7 +12,6 @@ permalink: /research/
 ### Automating Data Augmentation for Deflating Data Bias
 Defining data bias and features to target.
 
+## Completed
 ### Automatic Implementation of Secure Silicon
 Creating hardware modules for elliptic curve cryptography algorithms.
-
-## Completed
