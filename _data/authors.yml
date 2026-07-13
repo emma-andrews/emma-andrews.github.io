@@ -8,9 +8,7 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Computer Science Ph.D. student at the University of Florida. I am currently researching
-    data bias in machine learning and verification of artificial intelligence. I have previously 
-    researched explainable artifical intelligence and elliptic curve cryptography.
+    Emma Andrews received her Ph.D. in 2026, her M.S. in 2023, and her B.S. in 2021 from the Department of Computer and Information Science and Engineering at the University of Florida. Her area of research includes quantum computing, machine learning, verification, and tensor decompositions. 
 
   # This photo will be used in the about section
   picture:           /assets/img/pf.jpg
